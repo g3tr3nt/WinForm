@@ -1,0 +1,2 @@
+#include "NewVipTourist.h"
+
